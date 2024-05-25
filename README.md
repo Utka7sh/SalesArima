@@ -1,5 +1,6 @@
  # Predicting daily sales of each country using auto arima
  CountryWise sales prediction.
+ 
  ![image](https://github.com/Utka7sh/SalesArima/assets/168061577/f7fc3b69-a00d-4b3c-9e46-1b50cc7046b3)
 
 # Overview
@@ -17,10 +18,13 @@ seaborn
 
 # Results
 Exploratory Data Analysis (EDA)
+
 ![image](https://github.com/Utka7sh/SalesArima/assets/168061577/7f6bb512-6349-4225-b92a-85923ac35a4b)
 
 Sales
+
 ![image](https://github.com/Utka7sh/SalesArima/assets/168061577/740cfd46-ddde-495a-be99-12362700c6c0)
 
 Time Series
+
 ![image](https://github.com/Utka7sh/SalesArima/assets/168061577/e9d400e8-c27c-47b5-afe7-a27eb0d2f541)
