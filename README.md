@@ -7,14 +7,14 @@
 This repository contains code for a time series forecasting model aimed at predicting the demand for products in a retail store. The model utilizes historical sales data to forecast future demand, taking into account seasonality and trends.
 
 # Requirements
-Python 3.x
-Pandas
-NumPy
-Matplotlib
-Scikit-Learn
-Statsmodels
-pmdarima
-seaborn
+- Python 3.x
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
+- Statsmodels
+- pmdarima
+- seaborn
 
 # Results
 Exploratory Data Analysis (EDA)
